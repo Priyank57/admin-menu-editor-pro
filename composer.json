@@ -1,0 +1,8 @@
+{
+    "name": "wordpress-plugin/admin-menu-editor-pro",
+    "description": "admin-menu-editor-pro",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.4"
+    }
+}
